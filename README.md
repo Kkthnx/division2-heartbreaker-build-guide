@@ -43,11 +43,11 @@ Welcome to the comprehensive guide for building the ultimate Heartbreaker loadou
 
 ### Core Attribute
 
-- Hybrid Red and Blue build (weapon damage & armor rolls)
+- Hybrid Red and 🔵Blue build (weapon damage & armor rolls)
 
-A Hybrid Red and Blue build refers to a build that combines offensive (red) and defensive (blue) attributes to create a versatile character. In this case, the focus is on maximizing weapon damage while maintaining a solid amount of armor.
+A Hybrid 🔴Red and 🔵Blue build refers to a build that combines offensive (red) and defensive (blue) attributes to create a versatile character. In this case, the focus is on maximizing weapon damage while maintaining a solid amount of armor.
 
-With a Hybrid Red and Blue build, you prioritize both offensive and defensive attributes on your gear. This allows you to deal significant damage with your weapons while also ensuring you have a strong defense to withstand enemy attacks.
+With a Hybrid 🔴Red and 🔵Blue build, you prioritize both offensive and defensive attributes on your gear. This allows you to deal significant damage with your weapons while also ensuring you have a strong defense to withstand enemy attacks.
 
 For example, you can allocate some attribute rolls to enhance your weapon damage, such as Critical Hit Damage. This will increase the damage output of your critical hits. At the same time, you allocate other attribute rolls to improve your defensive capabilities, such as Armor or Health. This provides you with a higher overall survivability.
 
