@@ -43,11 +43,11 @@ Welcome to the comprehensive guide for building the ultimate Heartbreaker loadou
 
 ### Core Attribute
 
-- Hybrid 🔴Red and 🔵Blue build (weapon damage & armor rolls)
+- Hybrid ![red](https://github.com/Kkthnx/division2-heartbreaker-build-guide/assets/40672673/7c8c6d88-e3d4-459b-a2fb-a111c7c3086c)Red and ![blue](https://github.com/Kkthnx/division2-heartbreaker-build-guide/assets/40672673/538963a7-db99-4e6c-a259-b1379b563c62)Blue build (weapon damage & armor rolls)
 
-A Hybrid 🔴Red and 🔵Blue build refers to a build that combines offensive (red) and defensive (blue) attributes to create a versatile character. In this case, the focus is on maximizing weapon damage while maintaining a solid amount of armor.
+A Hybrid ![red](https://github.com/Kkthnx/division2-heartbreaker-build-guide/assets/40672673/7c8c6d88-e3d4-459b-a2fb-a111c7c3086c)Red and ![blue](https://github.com/Kkthnx/division2-heartbreaker-build-guide/assets/40672673/538963a7-db99-4e6c-a259-b1379b563c62)Blue build refers to a build that combines offensive (red) and defensive (blue) attributes to create a versatile character. In this case, the focus is on maximizing weapon damage while maintaining a solid amount of armor.
 
-With a Hybrid 🔴Red and 🔵Blue build, you prioritize both offensive and defensive attributes on your gear. This allows you to deal significant damage with your weapons while also ensuring you have a strong defense to withstand enemy attacks.
+With a Hybrid ![red](https://github.com/Kkthnx/division2-heartbreaker-build-guide/assets/40672673/7c8c6d88-e3d4-459b-a2fb-a111c7c3086c)Red and ![blue](https://github.com/Kkthnx/division2-heartbreaker-build-guide/assets/40672673/538963a7-db99-4e6c-a259-b1379b563c62)Blue build, you prioritize both offensive and defensive attributes on your gear. This allows you to deal significant damage with your weapons while also ensuring you have a strong defense to withstand enemy attacks.
 
 For example, you can allocate some attribute rolls to enhance your weapon damage, such as Critical Hit Damage. This will increase the damage output of your critical hits. At the same time, you allocate other attribute rolls to improve your defensive capabilities, such as Armor or Health. This provides you with a higher overall survivability.
 
@@ -84,7 +84,7 @@ To begin building your Heartbreaker loadout, follow these steps:
 4. Optimize your gear configuration by equipping 4 pieces of Heartbreaker gear for enhanced performance. Combine this with the Memento Backpack for the Kill Confirmed talent and the Picaro's Holster for additional bonuses.
 5. Assign the Crusader Ballistic Shield to your first skill slot. This shield will provide extra protection, allowing you to withstand enemy fire while dealing damage.
 6. In your second skill slot, equip the Reviver Hive. This skill will revive you or your teammates when downed, ensuring the fight continues.
-7. Build your character as a Hybrid 🔴Red and 🔵Blue build, focusing on optimizing both your weapon damage and armor rolls.
+7. Build your character as a Hybrid ![red](https://github.com/Kkthnx/division2-heartbreaker-build-guide/assets/40672673/7c8c6d88-e3d4-459b-a2fb-a111c7c3086c)Red and ![blue](https://github.com/Kkthnx/division2-heartbreaker-build-guide/assets/40672673/538963a7-db99-4e6c-a259-b1379b563c62)Blue build, focusing on optimizing both your weapon damage and armor rolls.
 8. Prioritize critical hit chance and critical hit damage on your gear rolls. This will significantly increase your chances of landing critical hits and boost your overall damage output.
 9. Enhance your build further by equipping gear mods that provide additional critical hit chance and critical hit damage bonuses.
 
