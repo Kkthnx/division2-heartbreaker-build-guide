@@ -1,5 +1,3 @@
-# division2-heartbreaker-build-guide
-
 # Heartbreaker Build Guide for PvE in The Division 2
 
 ![The Division 2](https://cdn2.unrealengine.com/Diesel%2Fproduct%2Ftctd2%2Flogos%2Fgame_logo_color_1000x375-1000x375-32062fa9b2223a398be7abb362c7166d1a7d7a44.png?h=270&quality=medium&resize=1&w=480)
