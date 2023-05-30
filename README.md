@@ -114,6 +114,14 @@ If you have any feedback, suggestions, or improvements for this guide, we welcom
 
 This guide is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this guide while providing attribution to the original source.
 
+## Guide Generation
+
+This guide was generated with the assistance of OpenAI ChatGPT, a powerful language model trained by OpenAI. The responses and suggestions provided by ChatGPT were based on its understanding of the input and the knowledge available up until its last training cutoff date of May 24, 2023.
+
+Please note that while ChatGPT strives to provide helpful and accurate information, it's important to verify and cross-reference the information provided in this guide with official sources and the latest updates from The Division 2 community.
+
+If you have any questions or need further assistance, feel free to ask, and we'll do our best to provide the information you need.
+
 Good luck, agent!
 
 ![Agent](https://www.pngkit.com/png/full/178-1787142_demolitionist-division-2-agent.png)
