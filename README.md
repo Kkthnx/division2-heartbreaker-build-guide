@@ -43,7 +43,7 @@ Welcome to the comprehensive guide for building the ultimate Heartbreaker loadou
 
 ### Core Attribute
 
-- Hybrid Red and 🔵Blue build (weapon damage & armor rolls)
+- Hybrid 🔴Red and 🔵Blue build (weapon damage & armor rolls)
 
 A Hybrid 🔴Red and 🔵Blue build refers to a build that combines offensive (red) and defensive (blue) attributes to create a versatile character. In this case, the focus is on maximizing weapon damage while maintaining a solid amount of armor.
 
@@ -84,7 +84,7 @@ To begin building your Heartbreaker loadout, follow these steps:
 4. Optimize your gear configuration by equipping 4 pieces of Heartbreaker gear for enhanced performance. Combine this with the Memento Backpack for the Kill Confirmed talent and the Picaro's Holster for additional bonuses.
 5. Assign the Crusader Ballistic Shield to your first skill slot. This shield will provide extra protection, allowing you to withstand enemy fire while dealing damage.
 6. In your second skill slot, equip the Reviver Hive. This skill will revive you or your teammates when downed, ensuring the fight continues.
-7. Build your character as a Hybrid Red and Blue build, focusing on optimizing both your weapon damage and armor rolls.
+7. Build your character as a Hybrid 🔴Red and 🔵Blue build, focusing on optimizing both your weapon damage and armor rolls.
 8. Prioritize critical hit chance and critical hit damage on your gear rolls. This will significantly increase your chances of landing critical hits and boost your overall damage output.
 9. Enhance your build further by equipping gear mods that provide additional critical hit chance and critical hit damage bonuses.
 
