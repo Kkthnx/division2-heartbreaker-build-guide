@@ -45,13 +45,34 @@ Welcome to the comprehensive guide for building the ultimate Heartbreaker loadou
 
 - Hybrid Red and Blue build (weapon damage & armor rolls)
 
+A Hybrid Red and Blue build refers to a build that combines offensive (red) and defensive (blue) attributes to create a versatile character. In this case, the focus is on maximizing weapon damage while maintaining a solid amount of armor.
+
+With a Hybrid Red and Blue build, you prioritize both offensive and defensive attributes on your gear. This allows you to deal significant damage with your weapons while also ensuring you have a strong defense to withstand enemy attacks.
+
+For example, you can allocate some attribute rolls to enhance your weapon damage, such as Critical Hit Damage. This will increase the damage output of your critical hits. At the same time, you allocate other attribute rolls to improve your defensive capabilities, such as Armor or Health. This provides you with a higher overall survivability.
+
 ### Gear Rolls
 
 - Crit hit chance & Crit hit damage
 
+Gear rolls are the specific attributes or bonuses you can apply to your gear pieces in The Division 2. In this case, the suggested gear rolls for the Heartbreaker build are Critical Hit Chance and Critical Hit Damage.
+
+- Critical Hit Chance: This attribute determines the likelihood of landing a critical hit on your enemies. The higher the Critical Hit Chance, the more frequently you will deal critical hits, resulting in increased damage.
+
+- Critical Hit Damage: This attribute determines the bonus damage multiplier applied to your critical hits. The higher the Critical Hit Damage, the more damage you will deal when you land a critical hit.
+
+By focusing on Critical Hit Chance and Critical Hit Damage as your gear rolls, you optimize your build for dealing devastating critical hits. This maximizes your damage output and makes your Heartbreaker build more effective in PvE encounters.
+
 ### Gear Mods
 
 - Crit hit chance & Crit hit damage
+
+Gear mods are additional modifications that can be applied to your gear to further enhance your character's attributes. In the case of the Heartbreaker build, it is recommended to use gear mods that provide bonuses to Critical Hit Chance and Critical Hit Damage.
+
+By equipping gear mods that increase Critical Hit Chance and Critical Hit Damage, you boost your chances of landing critical hits and amplify the damage they deal. This helps you maximize your damage potential and optimize the effectiveness of your Heartbreaker build.
+
+Remember, these specific gear rolls and gear mods are suggestions to enhance your Heartbreaker build. Feel free to experiment and adjust them based on your playstyle, available gear, and preferences. Finding the right combination of attributes and mods will allow you to create a build that suits your playstyle and maximizes your performance in PvE encounters.
+
 
 ## Getting Started
 
